@@ -1672,21 +1672,21 @@
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02141101QXJG361M</string>
+                <string>C02605401CDFV48AD</string>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>VOQ6Wayz</data>
+                <data>eNdftl9d</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>iMacPro1,1</string>
+                <string>MacBook9,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02GJVYEHX87</string>
+                <string>C02R6BZUHDNK</string>
                 <key>SystemUUID</key>
-                <string>CADB3F13-3D0D-4877-899D-82BE8D8B2F88</string>
+                <string>22C67F2C-6035-4E4C-AA65-777AFEE1450C</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
