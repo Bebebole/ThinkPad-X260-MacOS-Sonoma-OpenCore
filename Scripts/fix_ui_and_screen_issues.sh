@@ -1,4 +1,4 @@
-SCRIPT_PATH="${BASH_SOURCE[0]%/*}"
+SCRIPT_PATH="$( dirname -- "$( readlink -f -- "$0"; )"; )"
 
 #Change screen color profile
 echo -n "Changing the screen color profile..."
