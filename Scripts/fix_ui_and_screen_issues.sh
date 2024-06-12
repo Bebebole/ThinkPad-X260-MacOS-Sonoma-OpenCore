@@ -1,3 +1,4 @@
+#!/bin/zsh
 SCRIPT_PATH="$( dirname -- "$( readlink -f -- "$0"; )"; )"
 
 #Change screen color profile
