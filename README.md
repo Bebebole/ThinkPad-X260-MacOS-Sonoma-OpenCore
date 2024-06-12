@@ -8,3 +8,7 @@
 ## Scripts
 
 In the repo there is a `Scripts` folder with scripts that are recommended for a good experience on macOS.
+
+## Screenshots
+
+![image1](https://raw.githubusercontent.com/Bebebole/ThinkPad-X260-MacOS-Sonoma-OpenCore/main/Images/image1.png)
